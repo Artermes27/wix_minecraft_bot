@@ -1,0 +1,4 @@
+this bot is built for a system with 1080x1720 display screen using arch linux with I3 window manager
+unfortinately this is not the final version which was lost due to disk couruption however it has 70% of the fetures the final had
+
+i wrote and deployed this from january to april of 2022 so the UI of the apps it used will likely have changed. theirfore if you wish to use this i would thoroughly recomend checking the mouse click cordinates as well as the macros compatability with your version of I3 and minecraft.
